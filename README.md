@@ -18,7 +18,7 @@ The framework performs validation on input datasets with configurable rules and 
 ---
 
 ## Project Structure
-
+```yaml
 src/
 ├── core/ # Validation functionality
 ├── io/ # Input/output helpers
@@ -26,7 +26,7 @@ src/
 ├── reporting/ # Validation summary reports
 ├── expectations/ # Mappings to great_expectations
 └── config/ # Configuration for validations
-
+```
 ---
 
 ## How It Works
