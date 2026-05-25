@@ -1,7 +1,7 @@
 """ 
 validator.py
 ------------------------- 
-Orchestrates the validation logic using Great Expectations based on the rules defined in the configuration.
+Runs validation checks using Great Expectations based on the rules defined in the configuration.
 
 Design Notes:
 - gx.get_context(mode="ephemeral") is used to create an in-memory Great Expectations context without the need for a full project setup, 
