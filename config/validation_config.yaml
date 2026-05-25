@@ -1,0 +1,30 @@
+#input_file: data/raw/airline_employee_data_corrupt.csv
+input_file: data/raw/generated_airline_employee_data.csv
+
+output_valid_file: data/output/valid_records.csv
+
+output_invalid_file: data/err/invalid_records.csv
+
+validations:
+  - type: not_null
+    column: employee_id
+
+  - type: unique
+    column: employee_id
+
+  - type: not_null
+    column: employee_name
+
+  - type: datatype
+    column: salary
+    expected_type: INTEGER
+
+  - type: datatype
+    column: age
+    expected_type: INTEGER
+
+  - type: not_null
+    column: email
+
+  - type: not_null
+    column: department

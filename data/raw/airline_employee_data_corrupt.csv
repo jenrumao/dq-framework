@@ -1,0 +1,23 @@
+employee_id,employee_name,department,salary,age,email,joining_date
+1001,Alice Johnson,Operations,72000,29,alice.johnson@airsky.com,2021-03-15
+1002,Bob Smith,Cabin Crew,54000,34,bob.smith@airsky.com,2020-07-21
+1003,Charlie Brown,Ground Staff,48000,41,charlie.brown@airsky.com,2019-11-02
+1004,Diana Lee,Pilot,145000,38,diana.lee@airsky.com,2018-01-10
+1005,Ethan Davis,Operations,68000,31,ethan.davis@airsky.com,2022-05-17
+1005,Frank Moore,Operations,68000,31,frank.moore@airsky.com,2022-05-17
+1007,,Cabin Crew,50000,27,grace.wilson@airsky.com,2021-08-01
+1008,Hannah Taylor,Ground Staff,INVALID_SALARY,30,hannah.taylor@airsky.com,2020-12-12
+1009,Ian Thomas,Pilot,155000,UNKNOWN,ian.thomas@airsky.com,2017-09-09
+1010,Julia White,Cabin Crew,52000,26,,2023-02-14
+1011,Kevin Martin,Operations,61000,35,kevin.martin@airsky.com,INVALID_DATE
+1012,Laura Scott,,59000,28,laura.scott@airsky.com,2021-06-30
+1013,Michael Jordan,Operations,75000,36,michael.jordan@airsky.com,2020-04-12
+1014,Sophia Turner,Cabin Crew,58000,29,sophia.turner@airsky.com,2021-07-15
+1015,Daniel Evans,Pilot,165000,44,daniel.evans@airsky.com,2017-03-21
+1016,Emma Watson,Ground Staff,49000,31,emma.watson@airsky.com,2022-01-10
+1017,James Cooper,Engineering,98000,39,james.cooper@airsky.com,2018-11-05
+1018,Olivia Harris,HR,67000,33,olivia.harris@airsky.com,2019-06-18
+1019,William Scott,Operations,81000,41,william.scott@airsky.com,2016-09-30
+1020,Ava Mitchell,Cabin Crew,56000,27,ava.mitchell@airsky.com,2023-02-11
+1021,Benjamin Lewis,Ground Staff,52000,35,benjamin.lewis@airsky.com,2020-12-01
+1022,Charlotte Walker,Engineering,105000,38,charlotte.walker@airsky.com,2015-08-09
